@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hugo Teixeira\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hugo Teixeira\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Painters Algorith.-1650672517.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Painters Algorith.sln" t="IncludeFlat" />
+      <e p="Painters Algorithm" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Game.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Painters Algorithm.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Painters Algorithm.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Program.dll" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

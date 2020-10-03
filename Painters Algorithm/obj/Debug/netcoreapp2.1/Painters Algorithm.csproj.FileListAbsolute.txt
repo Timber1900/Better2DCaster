@@ -1,0 +1,29 @@
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.csprojAssemblyReference.cache
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.AssemblyInfoInputs.cache
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.AssemblyInfo.cs
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.deps.json
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.runtimeconfig.json
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.runtimeconfig.dev.json
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.dll
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.pdb
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Program.dll
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\bin\Debug\netcoreapp2.1\Program.pdb
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.csproj.CopyComplete
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.dll
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.pdb
+C:\Users\35196\RiderProjects\Painters Algorith\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.genruntimeconfig.cache
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.deps.json
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.runtimeconfig.json
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.runtimeconfig.dev.json
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.dll
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\bin\Debug\netcoreapp2.1\Painters Algorithm.pdb
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\bin\Debug\netcoreapp2.1\Program.dll
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.csprojAssemblyReference.cache
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.AssemblyInfoInputs.cache
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.AssemblyInfo.cs
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.csproj.CopyComplete
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.dll
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.pdb
+C:\Users\Hugo Teixeira\Desktop\Stuff\Better2DCaster\Painters Algorithm\obj\Debug\netcoreapp2.1\Painters Algorithm.genruntimeconfig.cache
